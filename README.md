@@ -12,15 +12,6 @@ The dataset contains customer support interactions with the following key featur
 - **Response metrics**: Connected handling time, response time analysis
 - **Target variable**: CSAT Score (1-5 scale)
 
-## Project Structure
-
-```
-├── FlipkartAnalysis.ipynb    # Main analysis notebook
-├── README.md                 # Project documentation
-└── data/                     # Data directory (add your CSV file here)
-    └── Customer_support_data.csv
-```
-
 ## Analysis Overview
 
 ### 1. Data Preprocessing
